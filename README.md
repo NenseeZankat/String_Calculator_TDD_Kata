@@ -5,7 +5,8 @@
 🧪 Method Signature
 
     int Add(string numbers)
-    The add() method takes a string input containing zero or more numbers, separated by delimiters, and returns their sum.
+    The add() method takes a string input containing zero or more numbers, 
+    separated by delimiters, and returns their sum.
 
 ✅ Features
 
@@ -47,7 +48,8 @@
 
 🔍 About Vitest
 
-    Vitest is a fast unit test framework powered by Vite. It supports modern JavaScript, TypeScript, and ESM out of the box.
+    Vitest is a fast unit test framework powered by Vite. 
+    It supports modern JavaScript, TypeScript, and ESM out of the box.
 
     Why Vitest?
 
